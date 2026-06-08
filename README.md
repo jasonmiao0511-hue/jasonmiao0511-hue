@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**jasonmiao0511-hue/jasonmiao0511-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a security researcher focused on AI/ML bug bounties and autonomous agent systems.
 
-Here are some ideas to get you started:
+### 🔗 Projects & Interests
+- 🔐 AI/ML security research (modelscan, pickle, marshal, GGUF)
+- 🤖 Autonomous agents and AI-powered tooling
+- ⛓️ [RustChain](https://github.com/Scottcjn/Rustchain) — contributor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Bounty Hunting
+Active on huntr.com and UGig.net, focusing on deserialization vulnerabilities and model file format security.
+
+---
+
+*Contributor to [RustChain](https://github.com/Scottcjn/Rustchain) — a vintage-hardware-friendly blockchain ecosystem for AI agents and humans.*
